@@ -8,8 +8,8 @@
 		<version>3.2.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.food.ordering.system</groupId>
-	<artifactId>food-ordering-system</artifactId>
+	<groupId>org.example.system</groupId>
+	<artifactId>org-example-system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>FoodOrderingSystem</name>
